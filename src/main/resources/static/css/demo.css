@@ -1,0 +1,8 @@
+/*CSS file is to be place in the src/main/resources/static/{css} folder */
+
+
+/* class  funny*/
+.funny{
+	font-style: italic;
+	color: green;
+}
