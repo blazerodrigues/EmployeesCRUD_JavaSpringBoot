@@ -1,4 +1,4 @@
-# EmployeesCRUD_JavaSpringboot
+# EmployeesCRUD_JavaSpringBoot
 
 CRUD operations on Employee table
 
