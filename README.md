@@ -1,4 +1,4 @@
-# EmployeesCRUD_SpringBoot
+# Employees CRUD :: Spring Boot Web Application
 
 CRUD operations on Employee table
 
