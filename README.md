@@ -3,9 +3,8 @@
 This web application is completely built using Java Spring Boot. <br/>
 Thymeleaf is used for front-end. <br/><br/>
 
-CRUD operations demo, on Employee table. <br/>
+CRUD operations demo, on Employee table:- <br/>
 
- 
 CREATE :: Form to create a new Employee <br/>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/163353684-13f2dd57-188f-48d8-9deb-a6b6983625de.png">
 
