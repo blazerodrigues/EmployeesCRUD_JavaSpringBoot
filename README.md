@@ -1,4 +1,4 @@
-# Employees CRUD :: Spring Boot Web Application
+# Employees CRUD :: Java Spring Boot Web Application
 
 This web application is completely built using Java Spring Boot. <br/>
 Thymeleaf is used for front-end. It is an alternative to JSP. <br/><br/>
