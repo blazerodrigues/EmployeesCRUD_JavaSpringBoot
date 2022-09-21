@@ -1,4 +1,4 @@
-package com.blazecode.springboot.demo.dao;
+package com.blazecode.springboot.demo.dao; //package
 
 import java.util.List;
 
